@@ -1,0 +1,2162 @@
+[
+    {
+        "CONTACT_ID":3468717000000744070,
+        "Nombre":"ABRASIL CO INC.",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0126",
+        "DV":2.0,
+        "RUC":"1479836-1-643453",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000175302,
+        "Nombre":"ACE INTERNATIONAL HARDWARE, CORP",
+        "Nombre de la empresa":"ACE INTERNATIONAL HARDWARE, CORP",
+        "Número de proveedor":"PV-0058",
+        "DV":9.0,
+        "RUC":"15430-249-148718",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001231001,
+        "Nombre":"ACL HOLDING, S.A.",
+        "Nombre de la empresa":"ACL HOLDING, S.A.",
+        "Número de proveedor":"PV-0159",
+        "DV":45.0,
+        "RUC":"155733798-2-2023",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003942001,
+        "Nombre":"AITAN CENTER",
+        "Nombre de la empresa":"AITAN CENTER",
+        "Número de proveedor":"PV-0247",
+        "DV":25.0,
+        "RUC":"8-785-2247",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000003927001,
+        "Nombre":"AITAN PLUS",
+        "Nombre de la empresa":"INVERSIONES P K C S.A",
+        "Número de proveedor":"PV-0244",
+        "DV":68.0,
+        "RUC":"2677560-1-844652",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000003338001,
+        "Nombre":"AJA DREAM HOUSE, S.A.",
+        "Nombre de la empresa":"AJA DREAM HOUSE, S.A.",
+        "Número de proveedor":"PV-0235",
+        "DV":2.0,
+        "RUC":"155745501-2-2023",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000848483,
+        "Nombre":"Almacen Fiestas de Estrellas",
+        "Nombre de la empresa":"Zhian Fu",
+        "Número de proveedor":"PV-0141",
+        "DV":30.0,
+        "RUC":"E-8-94371",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002298313,
+        "Nombre":"ALMACEN Y FERRETERIA PLAZA TOCUMEN",
+        "Nombre de la empresa":"ALMACEN Y FERRETERIA PLAZA TOCUMEN",
+        "Número de proveedor":"PV-0210",
+        "DV":2.0,
+        "RUC":"8-854-38",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000001718511,
+        "Nombre":"ALTAGRAFICA, SAS",
+        "Nombre de la empresa":"ALTAGRAFICA, SAS",
+        "Número de proveedor":"PV-0191",
+        "DV":0.0,
+        "RUC":"900.635.015",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002211777,
+        "Nombre":"ALTERNETWORKS, CORP",
+        "Nombre de la empresa":"ALTERNETWORKS, CORP",
+        "Número de proveedor":"PV-0209",
+        "DV":0.0,
+        "RUC":"786324-1-489815",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000680433,
+        "Nombre":"ANKER (IMPUESTOS)",
+        "Nombre de la empresa":"ANKER (IMPUESTOS)",
+        "Número de proveedor":"PV-0120",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000127193,
+        "Nombre":"ANKER LOGISTICA & CARGA S.A.",
+        "Nombre de la empresa":"ANKER LOGISTICA & CARGA S.A.",
+        "Número de proveedor":"PV-0032",
+        "DV":35.0,
+        "RUC":"155705764-2-2021",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003968044,
+        "Nombre":"ANTONIO CHONG CHAN",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0250",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000899261,
+        "Nombre":"ANUBIS ANAMEY VEJAS UREÑA",
+        "Nombre de la empresa":"TRANSPORTE ANUBIS",
+        "Número de proveedor":"PV-0146",
+        "DV":2.0,
+        "RUC":"8-817-2038",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003266145,
+        "Nombre":"AQUAVIVA BOTTLING COMPANY INC",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0229",
+        "DV":69.0,
+        "RUC":"2418382-1-807502",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000088003,
+        "Nombre":"ARKA SERVICIOS DE RECURSOS HUMANOS, S.A.",
+        "Nombre de la empresa":"ARKA SERVICIOS DE RECURSOS HUMANOS, S.A.",
+        "Número de proveedor":"PV-0003",
+        "DV":61.0,
+        "RUC":"52323-2-324164",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001294371,
+        "Nombre":"ARMEPLAS PRODALCA S.A.S.",
+        "Nombre de la empresa":"ARMEPLAS PRODALCA S.A.S.",
+        "Número de proveedor":"PV-0164",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000657001,
+        "Nombre":"Arnicia Santos",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0113",
+        "DV":60.0,
+        "RUC":"1-741-1587",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000280679,
+        "Nombre":"AS GRAPHIC, S.A.",
+        "Nombre de la empresa":"AS GRAPHIC, S.A.",
+        "Número de proveedor":"PV-0072",
+        "DV":85.0,
+        "RUC":"49021-1-370939",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000586001,
+        "Nombre":"ASAMBLEA DE PROPIETARIOS DE LA PH ALTAPLAZA MALL",
+        "Nombre de la empresa":"ASAMBLEA DE PROPIETARIOS DE LA PH ALTAPLAZA MALL",
+        "Número de proveedor":"PV-0093",
+        "DV":14.0,
+        "RUC":"8-NT-2-5001803",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001086263,
+        "Nombre":"AUTORIDAD NACIONAL DE ADUANAS",
+        "Nombre de la empresa":"AUTORIDAD NACIONAL DE ADUANAS",
+        "Número de proveedor":"PV-0155",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120624,
+        "Nombre":"AVANTGARDE LEGAL",
+        "Nombre de la empresa":"AVANTGARDE LEGAL",
+        "Número de proveedor":"PV-0028",
+        "DV":79.0,
+        "RUC":"25030395-3-2016",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000399551,
+        "Nombre":"BANCO GENERAL",
+        "Nombre de la empresa":"BANCO GENERAL",
+        "Número de proveedor":"PV-0083",
+        "DV":2.0,
+        "RUC":"280-134-61098",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001216572,
+        "Nombre":"BANISTMO",
+        "Nombre de la empresa":"BANISTMO",
+        "Número de proveedor":"PV-0158",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002480054,
+        "Nombre":"BARCENAS GROUP INTERNATIONAL INC",
+        "Nombre de la empresa":"BARCENAS GROUP INTERNATIONAL INC",
+        "Número de proveedor":"PV-0215",
+        "DV":36.0,
+        "RUC":"155607822-2-2015",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000653397,
+        "Nombre":"BARRDEGA SISTEMAS, SA",
+        "Nombre de la empresa":"BARRDEGA SISTEMAS, SA",
+        "Número de proveedor":"PV-0111",
+        "DV":43.0,
+        "RUC":"155638423-2-2016",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000307779,
+        "Nombre":"BOLSAS Y CARTUCHOS DE PAPEL, S.A.",
+        "Nombre de la empresa":"BOLSAS Y CARTUCHOS DE PAPEL, S.A.",
+        "Número de proveedor":"PV-0081",
+        "DV":96.0,
+        "RUC":"207-163-49793",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000669504,
+        "Nombre":"C&G Mundo Negocios, S.A.",
+        "Nombre de la empresa":"C&G Mundo Negocios, S.A.",
+        "Número de proveedor":"PV-0114",
+        "DV":8.0,
+        "RUC":"155619262-2-2015",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000653117,
+        "Nombre":"CAFE ALTAPLAZA, SA.",
+        "Nombre de la empresa":"CAFE ALTAPLAZA, SA.",
+        "Número de proveedor":"PV-0108",
+        "DV":11.0,
+        "RUC":"155608693-2-2015",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000749197,
+        "Nombre":"CAFE KOTOWA SA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0132",
+        "DV":42.0,
+        "RUC":"66113-2-363241",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000137094,
+        "Nombre":"CAJA DE SEGURO SOCIAL",
+        "Nombre de la empresa":"CAJA DE SEGURO SOCIAL",
+        "Número de proveedor":"PV-0035",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000104111,
+        "Nombre":"CAPITAL BANK",
+        "Nombre de la empresa":"CAPITAL BANK",
+        "Número de proveedor":"PV-0006",
+        "DV":70.0,
+        "RUC":"1183324-00-578664",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003037009,
+        "Nombre":"Carbone",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0222",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001598047,
+        "Nombre":"CARLOS  DIAZ CHEUNG",
+        "Nombre de la empresa":"CARLOS  DIAZ CHEUNG",
+        "Número de proveedor":"PV-0186",
+        "DV":6.0,
+        "RUC":"8-430-25",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000263127,
+        "Nombre":"CARLOS AGOSTINI",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0069",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120381,
+        "Nombre":"CAROLINA CASTILLO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0015",
+        "DV":null,
+        "RUC":"1-723-866",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003968010,
+        "Nombre":"CASA MAYORISTA CHAN LIU",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0249",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001419099,
+        "Nombre":"CESAR PIZZA S.A.",
+        "Nombre de la empresa":"CESAR PIZZA S.A.",
+        "Número de proveedor":"PV-0173",
+        "DV":92.0,
+        "RUC":"1725567-1-691286",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000674001,
+        "Nombre":"CHAITEN INTEROCEANICA, S.A.",
+        "Nombre de la empresa":"CHAITEN INTEROCEANICA, S.A.",
+        "Número de proveedor":"PV-0115",
+        "DV":8.0,
+        "RUC":"28878-23-233240",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000142017,
+        "Nombre":"CIA. GOLY, S.A.",
+        "Nombre de la empresa":"CIA. GOLY, S.A.",
+        "Número de proveedor":"PV-0043",
+        "DV":35.0,
+        "RUC":"652-212-129962",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000752001,
+        "Nombre":"CIBERNETICA ANDINA, S.A.",
+        "Nombre de la empresa":"CIBERNETICA ANDINA, S.A.",
+        "Número de proveedor":"PV-0134",
+        "DV":7.0,
+        "RUC":"398645-1-424039",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003137113,
+        "Nombre":"CIRCUIT SERVICES SA",
+        "Nombre de la empresa":"CIRCUIT SERVICES SA",
+        "Número de proveedor":"PV-0224",
+        "DV":32.0,
+        "RUC":"155623060-2-2016",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000003868977,
+        "Nombre":"COCY SPOT",
+        "Nombre de la empresa":"COCY SPOT",
+        "Número de proveedor":"PV-0240",
+        "DV":16.0,
+        "RUC":"8-841-598",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000003968168,
+        "Nombre":"COMERCIAL CENTER",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0253",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000139975,
+        "Nombre":"COMMERCIAL CENTER FUNDS, INC.",
+        "Nombre de la empresa":"COMMERCIAL CENTER FUNDS, INC.",
+        "Número de proveedor":"PV-0040",
+        "DV":4.0,
+        "RUC":"31276-185-242477",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000162208,
+        "Nombre":"COMPAÑÍA REYES SAAVEDRA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0049",
+        "DV":63.0,
+        "RUC":"875517-1-510042",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000749207,
+        "Nombre":"CONCESIONARIOS ROGEMENA SA",
+        "Nombre de la empresa":"CONCESIONARIOS ROGEMENA SA",
+        "Número de proveedor":"PV-0133",
+        "DV":86.0,
+        "RUC":"284560-1-407807",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000504313,
+        "Nombre":"CONFECCIONES BOSTON, S.A.",
+        "Nombre de la empresa":"CONFECCIONES BOSTON, S.A.",
+        "Número de proveedor":"PV-0092",
+        "DV":13.0,
+        "RUC":"655-544-133465",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000110200,
+        "Nombre":"CONSTRUCTION & DESIGN ROMAB",
+        "Nombre de la empresa":"CONSTRUCTION & DESIGN ROMAB",
+        "Número de proveedor":"PV-0010",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001292079,
+        "Nombre":"COPA AIRLINES",
+        "Nombre de la empresa":"COMPAÑIA PANAMEÑA DE AVIACION S A",
+        "Número de proveedor":"PV-0163",
+        "DV":2.0,
+        "RUC":"130-377-34706",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000653357,
+        "Nombre":"CORTINA CHINA",
+        "Nombre de la empresa":"CORTINA CHINA LIMITED",
+        "Número de proveedor":"PV-0110",
+        "DV":null,
+        "RUC":"31044035",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000598139,
+        "Nombre":"CYBER MASTER",
+        "Nombre de la empresa":"CYBER MASTER",
+        "Número de proveedor":"PV-0098",
+        "DV":3.0,
+        "RUC":"E-8-101190",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003128033,
+        "Nombre":"DAZNE JETSELIS CEDEÑO GONZÁLEZ",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0223",
+        "DV":0.0,
+        "RUC":"8-958-1694",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000110079,
+        "Nombre":"DELFINA MORAN",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0009",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000749167,
+        "Nombre":"DELI GOURMET SA",
+        "Nombre de la empresa":"DELI GOURMET SA",
+        "Número de proveedor":"PV-0129",
+        "DV":60.0,
+        "RUC":"105765-1-379278",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000139739,
+        "Nombre":"DESARROLLO URBANO TOCUMEN, S.A.",
+        "Nombre de la empresa":"DESARROLLO URBANO TOCUMEN, S.A.",
+        "Número de proveedor":"PV-0038",
+        "DV":11.0,
+        "RUC":"1015348-1-539247",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000125123,
+        "Nombre":"DESARROLLOS COMERCIALES WAN, S.A.",
+        "Nombre de la empresa":"DESARROLLOS COMERCIALES WAN, S.A.",
+        "Número de proveedor":"PV-0031",
+        "DV":58.0,
+        "RUC":"2543312-1-825296",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001718838,
+        "Nombre":"DHL PANAMA, S.A.",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0192",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000881141,
+        "Nombre":"Didimo Omar Gonzalez Rodriguez",
+        "Nombre de la empresa":"Ufast Print",
+        "Número de proveedor":"PV-0144",
+        "DV":70.0,
+        "RUC":"2-709-2011",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003128017,
+        "Nombre":"DILAYS INES ESCOBAR",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"EM-0224",
+        "DV":90.0,
+        "RUC":"8-931-876",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000592117,
+        "Nombre":"DIRECCION GENERAL DE INGRESOS",
+        "Nombre de la empresa":"DIRECCION GENERAL DE INGRESOS",
+        "Número de proveedor":"PV-0094",
+        "DV":0.0,
+        "RUC":"0",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001964321,
+        "Nombre":"DISEÑOS Y SERVICIOS EN METAL Y MADERA S. A. S.",
+        "Nombre de la empresa":"DISEÑOS Y SERVICIOS EN METAL Y MADERA S. A. S.",
+        "Número de proveedor":"PV-0200",
+        "DV":0.0,
+        "RUC":"900418207-8",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001807287,
+        "Nombre":"DISTRIBUIDORA DE PRODUCTOS INFLABLES Y EXPENDIOS S A",
+        "Nombre de la empresa":"DISTRIBUIDORA DE PRODUCTOS INFLABLES Y EXPENDIOS S A",
+        "Número de proveedor":"PV-0195",
+        "DV":19.0,
+        "RUC":"1320270-1-610416",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001019011,
+        "Nombre":"DISTRIBUIDORA F L G",
+        "Nombre de la empresa":"DISTRIBUIDORA F L G, S.A.",
+        "Número de proveedor":"PV-0153",
+        "DV":0.0,
+        "RUC":"1997538-1-739654",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000500215,
+        "Nombre":"DISTRIBUIDORA NACIONAL DE EMPAQUES S.A.",
+        "Nombre de la empresa":"DISTRIBUIDORA NACIONAL DE EMPAQUES S.A.",
+        "Número de proveedor":"PV-0091",
+        "DV":10.0,
+        "RUC":"64102-40-356855",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000723077,
+        "Nombre":"Doit Center, S.A.",
+        "Nombre de la empresa":"Doit Center, S.A.",
+        "Número de proveedor":"PV-0124",
+        "DV":9.0,
+        "RUC":"15430-249-148718",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000280973,
+        "Nombre":"DOLAR DISCOUNT, S.A.",
+        "Nombre de la empresa":"DOLAR DISCOUNT, S.A.",
+        "Número de proveedor":"PV-0074",
+        "DV":11.0,
+        "RUC":"459854-1-432800",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001320049,
+        "Nombre":"Don Pan Metromall",
+        "Nombre de la empresa":"Jenny Mega Pan, S.A.",
+        "Número de proveedor":"PV-0167",
+        "DV":75.0,
+        "RUC":"155729854-2-2022",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000592207,
+        "Nombre":"DULIC, INC.",
+        "Nombre de la empresa":"DULIC, INC.",
+        "Número de proveedor":"PV-0095",
+        "DV":71.0,
+        "RUC":"13207-129-130387",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000841173,
+        "Nombre":"EL HOMBRE DE LA MANCHA, S.A.",
+        "Nombre de la empresa":"EL HOMBRE DE LA MANCHA, S.A.",
+        "Número de proveedor":"PV-0140",
+        "DV":40.0,
+        "RUC":"61624-1-372612",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003148258,
+        "Nombre":"EL HOMBRE DE LA MANCHA, S.A.",
+        "Nombre de la empresa":"EL HOMBRE DE LA MANCHA, S.A.",
+        "Número de proveedor":"PV-0225",
+        "DV":40.0,
+        "RUC":"61624-1-372612",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000944359,
+        "Nombre":"EL MUNDO DE LOS GLOBOS",
+        "Nombre de la empresa":"EL MUNDO DE LOS GLOBOS",
+        "Número de proveedor":"PV-0149",
+        "DV":44.0,
+        "RUC":"15122-168-146235",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000077009,
+        "Nombre":"ELECTRONIC BUSINESS INTELLIGENCE CORP.",
+        "Nombre de la empresa":"ELECTRONIC BUSINESS INTELLIGENCE CORP.",
+        "Número de proveedor":"PV-0001",
+        "DV":72.0,
+        "RUC":"155709723-1-2021",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000147185,
+        "Nombre":"ELEKTRA NORESTE (ENSA), S.A.",
+        "Nombre de la empresa":"ELEKTRA NORESTE (ENSA), S.A.",
+        "Número de proveedor":"PV-0044",
+        "DV":65.0,
+        "RUC":"57983-56-340439",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000175149,
+        "Nombre":"ELEVATION TOWER 15A, S.A.",
+        "Nombre de la empresa":"ELEVATION TOWER 15A, S.A.",
+        "Número de proveedor":"PV-0056",
+        "DV":84.0,
+        "RUC":"2035458-1-745561",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000162270,
+        "Nombre":"ELIANA CHICA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0050",
+        "DV":0.0,
+        "RUC":"32244584",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003447063,
+        "Nombre":"EMIGDIO ANTONIO PEREZ SANCHEZ",
+        "Nombre de la empresa":"EMIGDIO ANTONIO PEREZ SANCHEZ",
+        "Número de proveedor":"PV-0237",
+        "DV":29.0,
+        "RUC":"8-332-822",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000719071,
+        "Nombre":"EMPAQUES DE COLON, S.A.",
+        "Nombre de la empresa":"EMPAQUES DE COLON, S.A.",
+        "Número de proveedor":"PV-0123",
+        "DV":8.0,
+        "RUC":"1816-150-35131",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001253001,
+        "Nombre":"EMPRESAS CARBONE, S.A.",
+        "Nombre de la empresa":"EMPRESAS CARBONE, S.A.",
+        "Número de proveedor":"PV-0160",
+        "DV":39.0,
+        "RUC":"1080323-1-554308",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000680413,
+        "Nombre":"ENERGY & TELECOM S.A. (ENTELSA)",
+        "Nombre de la empresa":"ENERGY & TELECOM S.A. (ENTELSA)",
+        "Número de proveedor":"PV-0118",
+        "DV":97.0,
+        "RUC":"678263-1-464003",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000680423,
+        "Nombre":"EPICA CONSULTING CORP",
+        "Nombre de la empresa":"EPICA CONSULTING CORP",
+        "Número de proveedor":"PV-0119",
+        "DV":4.0,
+        "RUC":"840337-1-503401",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002205001,
+        "Nombre":"ERNESTO GARCÍA",
+        "Nombre de la empresa":"ERNESTO GARCÍA",
+        "Número de proveedor":"PV-0207",
+        "DV":35.0,
+        "RUC":"8-811-1444",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000612179,
+        "Nombre":"EXQUISITESES MEGA PAN, S.A.",
+        "Nombre de la empresa":"EXQUISITESES MEGA PAN, S.A.",
+        "Número de proveedor":"PV-0100",
+        "DV":59.0,
+        "RUC":"1652144-1-675849",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002895015,
+        "Nombre":"FARMA MUNDO",
+        "Nombre de la empresa":"FARMA MUNDO",
+        "Número de proveedor":"PV-0219",
+        "DV":70.0,
+        "RUC":"8-883-871",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000162387,
+        "Nombre":"FARMACIA ARROCHA, S.A.",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0051",
+        "DV":13.0,
+        "RUC":"346-266-76470",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003968100,
+        "Nombre":"FARMACIA JAVILLO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0251",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001984330,
+        "Nombre":"FASHION FAMILY S.A.",
+        "Nombre de la empresa":"FASHION FAMILY S.A.",
+        "Número de proveedor":"PV-0201",
+        "DV":17.0,
+        "RUC":"155645234-2-2017",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000094009,
+        "Nombre":"FDG ENGINEERING & SERVICES, S.A.",
+        "Nombre de la empresa":"FDG ENGINEERING & SERVICES, S.A.",
+        "Número de proveedor":"PV-0004",
+        "DV":10.0,
+        "RUC":"155661347-2-2018",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000656269,
+        "Nombre":"FILI SHOP PANAMA CORP",
+        "Nombre de la empresa":"FILI SHOP",
+        "Número de proveedor":"PV-0112",
+        "DV":34.0,
+        "RUC":"155717086-2-2022",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000744014,
+        "Nombre":"FIRST AID BOTIQUIN PANAMA, INC.",
+        "Nombre de la empresa":"FIRST AID BOTIQUIN PANAMA, INC.",
+        "Número de proveedor":"PV-0125",
+        "DV":9.0,
+        "RUC":"155629321-2-2016",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000749177,
+        "Nombre":"FRANQUICIAS INTERIORES SA",
+        "Nombre de la empresa":"FRANQUICIAS INTERIORES SA",
+        "Número de proveedor":"PV-0130",
+        "DV":29.0,
+        "RUC":"155676623-2-2019",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001611071,
+        "Nombre":"FRANQUICIAS PANAMEÑAS, S.A.",
+        "Nombre de la empresa":"FRANQUICIAS PANAMEÑAS, S.A.",
+        "Número de proveedor":"PV-0188",
+        "DV":92.0,
+        "RUC":"902-308-105023",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000232497,
+        "Nombre":"FUMIGADORA INFINITY PEST CONTROL",
+        "Nombre de la empresa":"FUMIGADORA INFINITY PEST CONTROL",
+        "Número de proveedor":"PV-0065",
+        "DV":47.0,
+        "RUC":"8-905-501",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000753273,
+        "Nombre":"GIOVANI SANCHEZ",
+        "Nombre de la empresa":"GIOVANI SANCHEZ",
+        "Número de proveedor":"PV-0138",
+        "DV":96.0,
+        "RUC":"8-489-377",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002333833,
+        "Nombre":"GMG PANAMA S A",
+        "Nombre de la empresa":"GMG PANAMA S A",
+        "Número de proveedor":"PV-0211",
+        "DV":11.0,
+        "RUC":"1308215-1-607559",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000002412001,
+        "Nombre":"GOLDEN TULIP COMPANY S A",
+        "Nombre de la empresa":"GOLDEN TULIP COMPANY S A",
+        "Número de proveedor":"PV-0212",
+        "DV":99.0,
+        "RUC":"2504790-1-819553",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000749147,
+        "Nombre":"GRAN HOTEL AZUERO SA",
+        "Nombre de la empresa":"GRAN HOTEL AZUERO SA",
+        "Número de proveedor":"PV-0127",
+        "DV":92.0,
+        "RUC":"1241742-1-591340",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000307045,
+        "Nombre":"GRUPO DE COMUNICACIONES DIGITALES, S.A.",
+        "Nombre de la empresa":"GRUPO DE COMUNICACIONES DIGITALES, S.A.",
+        "Número de proveedor":"PV-0080",
+        "DV":18.0,
+        "RUC":"47028-19305805",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000612031,
+        "Nombre":"GRUPO DON PAN, SA.",
+        "Nombre de la empresa":"GRUPO DON PAN, SA.",
+        "Número de proveedor":"PV-0099",
+        "DV":73.0,
+        "RUC":"41564-2-284321\t",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001424101,
+        "Nombre":"GRUPO JAZAK, S.A.",
+        "Nombre de la empresa":"GRUPO JAZAK, S.A.",
+        "Número de proveedor":"PV-0176",
+        "DV":36.0,
+        "RUC":"155694217-2-2020",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003321001,
+        "Nombre":"GRUPO TODO A DOLAR",
+        "Nombre de la empresa":"GRUPO TODO A DOLAR",
+        "Número de proveedor":"PV-0230",
+        "DV":33.0,
+        "RUC":"682073-1-464676",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001500001,
+        "Nombre":"GRUPO WONG FIESTA, S.A.",
+        "Nombre de la empresa":"GRUPO WONG FIESTA, S.A.",
+        "Número de proveedor":"PV-0180",
+        "DV":43.0,
+        "RUC":"155667268-2-2013",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000226765,
+        "Nombre":"HILARY MORALES",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0063",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000296729,
+        "Nombre":"HMA TALLER CREATIVO S.A.S.",
+        "Nombre de la empresa":"HMA TALLER CREATIVO S.A.S.",
+        "Número de proveedor":"PV-0076",
+        "DV":0.0,
+        "RUC":"900565832",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002130033,
+        "Nombre":"HYPERNOVA LABS, S A",
+        "Nombre de la empresa":"HYPERNOVA LABS, S A",
+        "Número de proveedor":"PV-0204",
+        "DV":86.0,
+        "RUC":"155646463-2-2017",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001529439,
+        "Nombre":"ILADINO ATENCIO GONZALEZ",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0181",
+        "DV":98.0,
+        "RUC":"8-735-2071",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120524,
+        "Nombre":"ILKA GARCÍA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0025",
+        "DV":null,
+        "RUC":"8-920-320",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000280987,
+        "Nombre":"IMPRESIONES Y SUMINISTROS EXPRESS, S.A.",
+        "Nombre de la empresa":"IMPRESIONES Y SUMINISTROS EXPRESS, S.A.",
+        "Número de proveedor":"PV-0075",
+        "DV":44.0,
+        "RUC":"2226686-1-777310",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000653003,
+        "Nombre":"INMOBILIARIA DON ANTONIO, SA",
+        "Nombre de la empresa":"INMOBILIARIA DON ANTONIO, SA",
+        "Número de proveedor":"PV-0107",
+        "DV":6.0,
+        "RUC":"541-81-118009",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001214001,
+        "Nombre":"INTERNATIONAL POLYGRAPH TRAINING CENTER",
+        "Nombre de la empresa":"INTERNATIONAL POLYGRAPH TRAINING CENTER S.A.",
+        "Número de proveedor":"PV-0157",
+        "DV":62.0,
+        "RUC":" 1631480-1-671929",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000612309,
+        "Nombre":"INVADE INC",
+        "Nombre de la empresa":"INVADE INC",
+        "Número de proveedor":"PV-0101",
+        "DV":56.0,
+        "RUC":"155687126-2-2019",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000123001,
+        "Nombre":"INVERSIONES CJF, S.A.",
+        "Nombre de la empresa":"INVERSIONES CJF, S.A.",
+        "Número de proveedor":"PV-0029",
+        "DV":94.0,
+        "RUC":"400069-1-424246",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000204001,
+        "Nombre":"INVERSIONES GLOBAL HCH, S.A.",
+        "Nombre de la empresa":"INVERSIONES GLOBAL HCH, S.A.",
+        "Número de proveedor":"PV-0060",
+        "DV":17.0,
+        "RUC":"155613212-2-2015",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000130006,
+        "Nombre":"INVERSIONES HPC, S.A.",
+        "Nombre de la empresa":"INVERSIONES HPC, S.A.",
+        "Número de proveedor":"PV-0034",
+        "DV":84.0,
+        "RUC":"155650126-2-2017",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003927017,
+        "Nombre":"INVERSIONES OSVA S.A",
+        "Nombre de la empresa":"INVERSIONES OSVA S.A",
+        "Número de proveedor":"PV-0245",
+        "DV":20.0,
+        "RUC":"155703851-2-2021",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000003270017,
+        "Nombre":"INVERSIONES Y DISTRIBUCIONES ALIADAS, S.A.",
+        "Nombre de la empresa":"INVERSIONES Y DISTRIBUCIONES ALIADAS, S.A.",
+        "Número de proveedor":"PV-0228",
+        "DV":84.0,
+        "RUC":"2604372-1-834374",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000003545001,
+        "Nombre":"IS TECHNOLOGY",
+        "Nombre de la empresa":"IS TECHNOLOGY",
+        "Número de proveedor":"PV-0238",
+        "DV":0.0,
+        "RUC":"8-962-2016",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000001419119,
+        "Nombre":"JAVIER ANTONIO CHEN CHONG",
+        "Nombre de la empresa":"JAVIER ANTONIO CHEN CHONG",
+        "Número de proveedor":"PV-0175",
+        "DV":25.0,
+        "RUC":"8-785-2247",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001253203,
+        "Nombre":"JIMENA JUSTINE BARRIOS JAÉN",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0162",
+        "DV":null,
+        "RUC":"8-1008-1241",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000125001,
+        "Nombre":"JINYANG ZHONG",
+        "Nombre de la empresa":"JINYANG ZHONG",
+        "Número de proveedor":"PV-0030",
+        "DV":65.0,
+        "RUC":"E-8-87560",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000899231,
+        "Nombre":"JONATHAN RAMIREZ SANTANILLA",
+        "Nombre de la empresa":"JONATHAN RAMIREZ SANTANILLA",
+        "Número de proveedor":"PV-0145",
+        "DV":0.0,
+        "RUC":"PAS141724371",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000749157,
+        "Nombre":"JORGE JOSE TOVAR VARGAS (HOSTAL REBEQUET)",
+        "Nombre de la empresa":"JORGE JOSE TOVAR VARGAS",
+        "Número de proveedor":"PV-0128",
+        "DV":1.0,
+        "RUC":"4-266-955",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000082003,
+        "Nombre":"JOSE FLORES",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0002",
+        "DV":11.0,
+        "RUC":"2-717-333",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001947710,
+        "Nombre":"JOSE LUIS VERGARA SAMANIEGO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0199",
+        "DV":65.0,
+        "RUC":"7-705-1071",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120407,
+        "Nombre":"JOSEFINA SANJUR",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0016",
+        "DV":null,
+        "RUC":"4-745-1475",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000142001,
+        "Nombre":"KADIMA, S.A.",
+        "Nombre de la empresa":"KADIMA, S.A.",
+        "Número de proveedor":"PV-0042",
+        "DV":61.0,
+        "RUC":"5837-93-70420",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120511,
+        "Nombre":"KARINA MORALES",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0024",
+        "DV":null,
+        "RUC":"8-911-1461",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120485,
+        "Nombre":"KAROLINNE BISO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0022",
+        "DV":null,
+        "RUC":"8-880-974",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001188441,
+        "Nombre":"KHARLA NARANJO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0156",
+        "DV":58.0,
+        "RUC":"8-711-1568",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001890122,
+        "Nombre":"KIM CHEUNG FAN",
+        "Nombre de la empresa":"KIM CHEUNG FAN",
+        "Número de proveedor":"PV-0198",
+        "DV":77.0,
+        "RUC":"8-828-1441",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002149001,
+        "Nombre":"KOOL KIDZ SA",
+        "Nombre de la empresa":"KOOL KIDZ SA",
+        "Número de proveedor":"PV-0205",
+        "DV":39.0,
+        "RUC":"2466603-1-814265",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000137226,
+        "Nombre":"KUEHNE NAGEL, S.A.",
+        "Nombre de la empresa":"KUEHNE NAGEL, S.A.",
+        "Número de proveedor":"PV-0036",
+        "DV":66.0,
+        "RUC":"318251-1-412645",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000420001,
+        "Nombre":"LA REGIONAL DE SEGUROS, S.A.",
+        "Nombre de la empresa":"LA REGIONAL DE SEGUROS, S.A.",
+        "Número de proveedor":"PV-0086",
+        "DV":9.0,
+        "RUC":"2203687-1-773722",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001816475,
+        "Nombre":"LANDAYO INVESTMENT",
+        "Nombre de la empresa":"LANDAYO INVESTMENT, S.A.",
+        "Número de proveedor":"PV-0196",
+        "DV":0.0,
+        "RUC":"2179694-1-770175",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001399001,
+        "Nombre":"LEONARDO ERIC PINZÓN TEMPLETON",
+        "Nombre de la empresa":"LEONARDO ERIC PINZÓN TEMPLETON",
+        "Número de proveedor":"PV-0170",
+        "DV":38.0,
+        "RUC":"8-730-1900",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000001417051,
+        "Nombre":"LEONARDO EXPRESS S A",
+        "Nombre de la empresa":"LEONARDO EXPRESS S A",
+        "Número de proveedor":"PV-0172",
+        "DV":46.0,
+        "RUC":"729590-1-474973",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000129990,
+        "Nombre":"LINK MARKETING & SERVICIOS, S.A.",
+        "Nombre de la empresa":"LINK MARKETING",
+        "Número de proveedor":"PV-0033",
+        "DV":50.0,
+        "RUC":"2336769-1-795635",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001555145,
+        "Nombre":"LOGISTICA CONSUTORIA & INTEGRACIÓN",
+        "Nombre de la empresa":"LOGISTICA CONSUTORIA & INTEGRACIÓN",
+        "Número de proveedor":"PV-0183",
+        "DV":1.0,
+        "RUC":"811045949",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000752189,
+        "Nombre":"LUCKE CHUNG YAU",
+        "Nombre de la empresa":"LUCKE CHUNG YAU",
+        "Número de proveedor":"PV-0136",
+        "DV":0.0,
+        "RUC":"8-854-508",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120472,
+        "Nombre":"LUIS VICTOR",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0021",
+        "DV":null,
+        "RUC":"8-877-572",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002192477,
+        "Nombre":"M&B GUEVARA Y ASOCIADOS",
+        "Nombre de la empresa":"M&B GUEVARA Y ASOCIADOS SA",
+        "Número de proveedor":"PV-0206",
+        "DV":10.0,
+        "RUC":"2110137-1-758379",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001003001,
+        "Nombre":"M&B GUEVARA Y ASOCIADOS, S.A.",
+        "Nombre de la empresa":"M&B GUEVARA Y ASOCIADOS, S.A.",
+        "Número de proveedor":"PV-0151",
+        "DV":10.0,
+        "RUC":"2110137-1-758379",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000175390,
+        "Nombre":"M&M CORP",
+        "Nombre de la empresa":"M&M CORP",
+        "Número de proveedor":"PV-0059",
+        "DV":28.0,
+        "RUC":"155596031-2-2015",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003321013,
+        "Nombre":"MAIL BOXES ETC.",
+        "Nombre de la empresa":"INVERSIONES NORTEC, S.A.",
+        "Número de proveedor":"PV-0231",
+        "DV":8.0,
+        "RUC":"2304182-1-7903",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000002466023,
+        "Nombre":"MAPFRE PANAMA S A",
+        "Nombre de la empresa":"MAPFRE PANAMA S A",
+        "Número de proveedor":"PV-0213",
+        "DV":98.0,
+        "RUC":"597-46-103707",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000100101,
+        "Nombre":"MAQUILA INTERNACIONAL DE CONFECCION, S.A.S.",
+        "Nombre de la empresa":"MAQUILA INTERNACIONAL DE CONFECCION, S.A.S.",
+        "Número de proveedor":"PV-0005",
+        "DV":0.0,
+        "RUC":"881007991-8",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000296741,
+        "Nombre":"MARCO MOBILIARIO S.A.S.",
+        "Nombre de la empresa":"MARCO MOBILIARIO S.A.S.",
+        "Número de proveedor":"PV-0077",
+        "DV":7.0,
+        "RUC":"900127219",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001424271,
+        "Nombre":"Margarita Chong Wen",
+        "Nombre de la empresa":"PARTY 4U",
+        "Número de proveedor":"PV-0177",
+        "DV":38.0,
+        "RUC":"8-798-1321",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120420,
+        "Nombre":"MARIA GALLARDO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0017",
+        "DV":null,
+        "RUC":"4-753-1594",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000881001,
+        "Nombre":"Maria Paula Rico Pulgarin",
+        "Nombre de la empresa":"Maria Paula Rico Pulgarin",
+        "Número de proveedor":"PV-0142",
+        "DV":0.0,
+        "RUC":"PASS PE163773",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000280588,
+        "Nombre":"MARIA RAQUEL PERALTA DELGADO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0071",
+        "DV":90.0,
+        "RUC":"8-767-3",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001419109,
+        "Nombre":"MARITZA  YOU WU",
+        "Nombre de la empresa":"MARITZA  YOU WU",
+        "Número de proveedor":"PV-0174",
+        "DV":91.0,
+        "RUC":"8-886-957",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000280263,
+        "Nombre":"MARTIN RIVERA O GLOBE PRODUCTIONS",
+        "Nombre de la empresa":"GLOBE PRODUCTIONS",
+        "Número de proveedor":"PV-0070",
+        "DV":0.0,
+        "RUC":"8-358-111",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001253103,
+        "Nombre":"MAURA DEL CARMEN LÓPEZ PRADO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0161",
+        "DV":null,
+        "RUC":"8-286-413",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003922017,
+        "Nombre":"MERCADITO MEJOR 3",
+        "Nombre de la empresa":"MERCADITO MEJOR 3",
+        "Número de proveedor":"PV-0243",
+        "DV":30.0,
+        "RUC":"8-239-2516",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000752221,
+        "Nombre":"MERCERIA Y MAS",
+        "Nombre de la empresa":"JENNIFFER ISABEL JIANY CHOUNG DE CHANG",
+        "Número de proveedor":"PV-0137",
+        "DV":9.0,
+        "RUC":"8-849-732",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000120433,
+        "Nombre":"MICHELLE GONZÁLEZ",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0018",
+        "DV":null,
+        "RUC":"8-788-2008",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000680403,
+        "Nombre":"MICROMAC, S.A.",
+        "Nombre de la empresa":"MICROMAC, S.A.",
+        "Número de proveedor":"PV-0117",
+        "DV":46.0,
+        "RUC":"1802757-1-705580",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000172001,
+        "Nombre":"MINIMED CORP.",
+        "Nombre de la empresa":"MINIMED CORP.",
+        "Número de proveedor":"PV-0053",
+        "DV":42.0,
+        "RUC":"1895740-1-721744",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000107001,
+        "Nombre":"MINISTERIO DE DESARROLLO Y ORDENAMIENTO TERRITORIAL",
+        "Nombre de la empresa":"MINISTERIO DE DESARROLLO Y ORDENAMIENTO TERRITORIAL",
+        "Número de proveedor":"PV-0007",
+        "DV":81.0,
+        "RUC":"8-NT-1-13654",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000492683,
+        "Nombre":"MONICA FLORES",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0090",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000411863,
+        "Nombre":"MONTEMAR E HIJOS, S.A.",
+        "Nombre de la empresa":"MONTEMAR E HIJOS, S.A.",
+        "Número de proveedor":"PV-0085",
+        "DV":null,
+        "RUC":"128856-1-382436",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000175237,
+        "Nombre":"MULTI LINE",
+        "Nombre de la empresa":"MULTI LINE",
+        "Número de proveedor":"PV-0057",
+        "DV":60.0,
+        "RUC":"PE-8-2552",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000653317,
+        "Nombre":"MUNICIPIO DE ARRAIJAN",
+        "Nombre de la empresa":"MUNICIPIO DE ARRAIJAN",
+        "Número de proveedor":"PV-0109",
+        "DV":22.0,
+        "RUC":"8-NT-1-14694",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000306693,
+        "Nombre":"MUNICIPIO DE PANAMA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0079",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000232662,
+        "Nombre":"MUNICIPIO DE SAN MIGUELITO",
+        "Nombre de la empresa":"MUNICIPIO DE SAN MIGUELITO",
+        "Número de proveedor":"PV-0066",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001989109,
+        "Nombre":"MUÑOZ CARGO SAS",
+        "Nombre de la empresa":"MUÑOZ CARGO SAS",
+        "Número de proveedor":"PV-0202",
+        "DV":0.0,
+        "RUC":"901020738",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000263114,
+        "Nombre":"NATHALY BRAVO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0068",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000427295,
+        "Nombre":"NATURGY",
+        "Nombre de la empresa":"EMPRESA DE DISTRIBUCION ELECTRICA METRO OESTE S.A.",
+        "Número de proveedor":"PV-0087",
+        "DV":10.0,
+        "RUC":"57983-2-340436",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000691249,
+        "Nombre":"NETDATA SECURITY",
+        "Nombre de la empresa":"NETDATA SECURITY",
+        "Número de proveedor":"PV-0121",
+        "DV":14.0,
+        "RUC":"8-191-366",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000226732,
+        "Nombre":"NIURKA SEQUEIDA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0062",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001886111,
+        "Nombre":"Octavio Paniza",
+        "Nombre de la empresa":"Octavio Paniza",
+        "Número de proveedor":"PV-0197",
+        "DV":16.0,
+        "RUC":"8-935-1818",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000108001,
+        "Nombre":"ORION MULTISERVICE, S.A.",
+        "Nombre de la empresa":"ORION MULTISERVICE, S.A.",
+        "Número de proveedor":"PV-0008",
+        "DV":28.0,
+        "RUC":"745402-1-478761",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000162066,
+        "Nombre":"ORLYN, S.A.",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0047",
+        "DV":16.0,
+        "RUC":"630-483-123250",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000752123,
+        "Nombre":"ORNICA CEN CORP",
+        "Nombre de la empresa":"ORNICA CEN CORP",
+        "Número de proveedor":"PV-0135",
+        "DV":4.0,
+        "RUC":"2693337-1-847080",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001598159,
+        "Nombre":"OSNEDY MARIANA TERAN ESCOBAR",
+        "Nombre de la empresa":"OSNEDY MARIANA TERAN ESCOBAR",
+        "Número de proveedor":"PV-0187",
+        "DV":45.0,
+        "RUC":"8-NT-2-725424",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000749187,
+        "Nombre":"PALO ALTO RIVERSIDE INN SA",
+        "Nombre de la empresa":"PALO ALTO RIVERSIDE INN SA",
+        "Número de proveedor":"PV-0131",
+        "DV":77.0,
+        "RUC":"791655-1-491591",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000308210,
+        "Nombre":"PANAFOTO, S.A.",
+        "Nombre de la empresa":"PANAFOTO, S.A.",
+        "Número de proveedor":"PV-0082",
+        "DV":5.0,
+        "RUC":"66159-91-363381",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000305129,
+        "Nombre":"PANAMA AIR CARGO TERMINAL",
+        "Nombre de la empresa":"PANAMA AIR CARGO TERMINAL",
+        "Número de proveedor":"PV-0078",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003942013,
+        "Nombre":"PAPA JOHNS",
+        "Nombre de la empresa":"PAPA JOHNS",
+        "Número de proveedor":"PV-0248",
+        "DV":55.0,
+        "RUC":"155673844-2-2018",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000111001,
+        "Nombre":"PAPELERIA COMERCIAL, S.A.",
+        "Nombre de la empresa":"PAPELERIA COMERCIAL, S.A.",
+        "Número de proveedor":"PV-0012",
+        "DV":8.0,
+        "RUC":"34557-82-256682",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001362029,
+        "Nombre":"PAPELES PRIMAVERA",
+        "Nombre de la empresa":"PAPELES PRIMAVERA",
+        "Número de proveedor":"PV-0169",
+        "DV":null,
+        "RUC":"830014825",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001530315,
+        "Nombre":"PH AEROPUERTO COMMERCIAL PARK",
+        "Nombre de la empresa":"PH AEROPUERTO COMMERCIAL PARK",
+        "Número de proveedor":"PV-0182",
+        "DV":71.0,
+        "RUC":"13207-129-130387",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002211709,
+        "Nombre":"PH CENTRO COMERCIAL LOS ANDES",
+        "Nombre de la empresa":"PH CENTRO COMERCIAL LOS ANDES",
+        "Número de proveedor":"PV-0208",
+        "DV":76.0,
+        "RUC":"8-NT-1-23948",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000113450,
+        "Nombre":"PH CENTRO COMERCIAL LOS PUEBLOS ALBROOK",
+        "Nombre de la empresa":"PH CENTRO COMERCIAL LOS PUEBLOS ALBROOK",
+        "Número de proveedor":"PV-0014",
+        "DV":2.0,
+        "RUC":"8-NT-2-1643",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000171493,
+        "Nombre":"PH CENTRO COMERCIAL WESTLAND MALL LOS PUEBLOS",
+        "Nombre de la empresa":"PH CENTRO COMERCIAL WESTLAND MALL LOS PUEBLOS",
+        "Número de proveedor":"PV-0052",
+        "DV":7.0,
+        "RUC":"8-NT-2-22637",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000139905,
+        "Nombre":"PH METROMALL",
+        "Nombre de la empresa":"PH METROMALL",
+        "Número de proveedor":"PV-0039",
+        "DV":4.0,
+        "RUC":"8-NT-2-15826",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000140045,
+        "Nombre":"PH MULTIPLAZA PACIFIC",
+        "Nombre de la empresa":"PH MULTIPLAZA PACIFIC",
+        "Número de proveedor":"PV-0041",
+        "DV":83.0,
+        "RUC":"8-NT-2-2950",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000837675,
+        "Nombre":"PLASTICOS LA VICTORIA, S.A.",
+        "Nombre de la empresa":"PLASTICOS LA VICTORIA, S.A.",
+        "Número de proveedor":"PV-0139",
+        "DV":6.0,
+        "RUC":"1297941-1-604717",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001807193,
+        "Nombre":"PORTER DATA SAS",
+        "Nombre de la empresa":"PORTER DATA SAS",
+        "Número de proveedor":"PV-0194",
+        "DV":0.0,
+        "RUC":"901634823-4",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000110352,
+        "Nombre":"POWER SYSTEM TECHNOLOGY",
+        "Nombre de la empresa":"POWER SYSTEM TECHNOLOGY",
+        "Número de proveedor":"PV-0011",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003210035,
+        "Nombre":"PRESTA PANAMÁ, S.A.",
+        "Nombre de la empresa":"PRESTA PANAMÁ, S.A.",
+        "Número de proveedor":"PV-0226",
+        "DV":8.0,
+        "RUC":"1478646-1-643314",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001445001,
+        "Nombre":"PRINT WORKS",
+        "Nombre de la empresa":"PRINTWORKS",
+        "Número de proveedor":"PV-0178",
+        "DV":1.0,
+        "RUC":"155647085-2-2017",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000002700001,
+        "Nombre":"PTY TEC COMPUTER SHOP",
+        "Nombre de la empresa":"IMPORT & EXPORT MAYCE S A",
+        "Número de proveedor":"PV-0216",
+        "DV":75.0,
+        "RUC":"1157200-1-573083",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001294521,
+        "Nombre":"PVC INDÚSTRIA E COMERCIO DE PLÁSTICOS LTDA",
+        "Nombre de la empresa":"PVC INDÚSTRIA E COMERCIO DE PLÁSTICOS LTDA",
+        "Número de proveedor":"PV-0165",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000162172,
+        "Nombre":"RAPID MAIL, S.A.",
+        "Nombre de la empresa":"RAPID MAIL, S.A.",
+        "Número de proveedor":"PV-0048",
+        "DV":43.0,
+        "RUC":"85443-1-376232",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001019001,
+        "Nombre":"RAPIRED, S.A.",
+        "Nombre de la empresa":"RAPIRED, S.A.",
+        "Número de proveedor":"PV-0152",
+        "DV":42.0,
+        "RUC":"239561-1-804189",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000446053,
+        "Nombre":"RAQUUEL SOTO HERNÁNDEZ",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0088",
+        "DV":85.0,
+        "RUC":"8-520-74",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001721689,
+        "Nombre":"REGISTRO PÚBLICO DE PANAMA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0193",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000651001,
+        "Nombre":"RETAIL CENTENARIO SA",
+        "Nombre de la empresa":"RETAIL CENTENARIO SA",
+        "Número de proveedor":"PV-0106",
+        "DV":7.0,
+        "RUC":"2182171-1-770489",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001707093,
+        "Nombre":"RETAIL CENTENARIO SA (CAM)",
+        "Nombre de la empresa":"RETAIL CENTENARIO SA (CAM)",
+        "Número de proveedor":"PV-0189",
+        "DV":7.0,
+        "RUC":"2182171-1-770489",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001566393,
+        "Nombre":"RIAG S.A",
+        "Nombre de la empresa":"RIAG S.A",
+        "Número de proveedor":"PV-0184",
+        "DV":22.0,
+        "RUC":"2002931-1-740551",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000598129,
+        "Nombre":"RIBA SMITH, S.A.",
+        "Nombre de la empresa":"RIBA SMITH, S.A.",
+        "Número de proveedor":"PV-0097",
+        "DV":50.0,
+        "RUC":"342-240-75526",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000923123,
+        "Nombre":"Ricardo José Robleto Farquiharson",
+        "Nombre de la empresa":"Ricardo José Robleto Farquiharson",
+        "Número de proveedor":"PV-0147",
+        "DV":0.0,
+        "RUC":"3-744-1965",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000620605,
+        "Nombre":"RITA GUTIÉRREZ",
+        "Nombre de la empresa":"RITA GUTIÉRREZ",
+        "Número de proveedor":"PV-0103",
+        "DV":70.0,
+        "RUC":"6-709-2071",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001320097,
+        "Nombre":"ROBERTO DAVID BLAKE GALVEZ",
+        "Nombre de la empresa":"ROBERTO DAVID BLAKE GALVEZ",
+        "Número de proveedor":"PV-0168",
+        "DV":39.0,
+        "RUC":"8-825-915",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000700383,
+        "Nombre":"RODELAG, S.A.",
+        "Nombre de la empresa":"RODELAG, S.A.",
+        "Número de proveedor":"PV-0122",
+        "DV":0.0,
+        "RUC":"204-394-49730",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001578105,
+        "Nombre":"ROLLING DOORS REPAIR AND MOVE S A",
+        "Nombre de la empresa":"ROLLING DOORS REPAIR AND MOVE S A",
+        "Número de proveedor":"PV-0185",
+        "DV":68.0,
+        "RUC":"2533605-1-823799",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000120459,
+        "Nombre":"ROSA CASTILLO",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0020",
+        "DV":null,
+        "RUC":"8-873-1982",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000411641,
+        "Nombre":"ROYAL OFFICE SUPPLIER, S.A.",
+        "Nombre de la empresa":"ROYAL OFFICE SUPPLIER, S.A.",
+        "Número de proveedor":"PV-0084",
+        "DV":92.0,
+        "RUC":"2188683-1-771482",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000003330001,
+        "Nombre":"SEDERIA VICTORIA",
+        "Nombre de la empresa":"SEDERIA VICTORIA",
+        "Número de proveedor":"PV-0234",
+        "DV":2.0,
+        "RUC":"8-956-992",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000002829072,
+        "Nombre":"SEDERIA Y NOVEDADES ARCOIRIS",
+        "Nombre de la empresa":"SEDERIA Y NOVEDADES ARCOIRIS",
+        "Número de proveedor":"PV-0218",
+        "DV":72.0,
+        "RUC":"8-990-1635",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000003270001,
+        "Nombre":"SEDERIA Y NOVEDADES BE HAPPY",
+        "Nombre de la empresa":"SEDERIA Y NOVEDADES BE HAPPY",
+        "Número de proveedor":"PV-0227",
+        "DV":6.0,
+        "RUC":"3-734-1753",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000675291,
+        "Nombre":"SERVIENTREGA",
+        "Nombre de la empresa":"RED VERDE P1",
+        "Número de proveedor":"PV-0116",
+        "DV":0.0,
+        "RUC":"42071-105-286474",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000881043,
+        "Nombre":"Shay Moi Lam Weng",
+        "Nombre de la empresa":"ECONOPALET",
+        "Número de proveedor":"PV-0143",
+        "DV":81.0,
+        "RUC":" N-20-445",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001716097,
+        "Nombre":"SIGMUND JAVIER VILLAMIZAR ZAMBRANO",
+        "Nombre de la empresa":"SIGMUND JAVIER VILLAMIZAR ZAMBRANO",
+        "Número de proveedor":"PV-0190",
+        "DV":55.0,
+        "RUC":"5-NT-2-5002809",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003922001,
+        "Nombre":"SIMON LUO",
+        "Nombre de la empresa":"SEDERIA NOVEDADES AITIAN",
+        "Número de proveedor":"PV-0242",
+        "DV":94.0,
+        "RUC":"8-977-1925",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000002477134,
+        "Nombre":"SISTEMAS MCOPCO PANAMA S.A.",
+        "Nombre de la empresa":"SISTEMAS MCOPCO PANAMA S.A.",
+        "Número de proveedor":"PV-0214",
+        "DV":6.0,
+        "RUC":"557-538-101617",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000003325001,
+        "Nombre":"SUPER 99",
+        "Nombre de la empresa":"IMPORTADORA RICAMAR, S.A.",
+        "Número de proveedor":"PV-0233",
+        "DV":22.0,
+        "RUC":"434-15-93796",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000280933,
+        "Nombre":"SUPERMERCADO XTRA, S.A.",
+        "Nombre de la empresa":"SUPERMERCADO XTRA, S.A.",
+        "Número de proveedor":"PV-0073",
+        "DV":12.0,
+        "RUC":"356-19-77860",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000612319,
+        "Nombre":"TAMEK, S.A.",
+        "Nombre de la empresa":"TAMEK, S.A.",
+        "Número de proveedor":"PV-0102",
+        "DV":84.0,
+        "RUC":"902679-1-515225",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000138001,
+        "Nombre":"TELECOMUNICACIONES DIGITALES, S.A.",
+        "Nombre de la empresa":"TELECOMUNICACIONES DIGITALES, S.A.",
+        "Número de proveedor":"PV-0037",
+        "DV":22.0,
+        "RUC":"30394-2-238626",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000173010,
+        "Nombre":"TEQUESNACKS S.A.",
+        "Nombre de la empresa":"TEQUESNACKS S.A.",
+        "Número de proveedor":"PV-0054",
+        "DV":14.0,
+        "RUC":"155608618-2-2015",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003915452,
+        "Nombre":"TITAN",
+        "Nombre de la empresa":"SHALOM, S.A.",
+        "Número de proveedor":"PV-0241",
+        "DV":9.0,
+        "RUC":"1508-31-30247",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000001989153,
+        "Nombre":"TOTALCLEAN",
+        "Nombre de la empresa":"INVERSIONES PANIT INTERNACIONAL SA",
+        "Número de proveedor":"PV-0203",
+        "DV":0.0,
+        "RUC":"2584813-1-831534",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000446262,
+        "Nombre":"TOVA, S.A.",
+        "Nombre de la empresa":"TOVA, S.A.",
+        "Número de proveedor":"PV-0089",
+        "DV":20.0,
+        "RUC":"65219-68-360495",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001085297,
+        "Nombre":"TRADYCSA SEVICES, S.A.",
+        "Nombre de la empresa":"TRADYCSA SEVICES, S.A.",
+        "Número de proveedor":"PV-0154",
+        "DV":10.0,
+        "RUC":"1393785-1-626655",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003968134,
+        "Nombre":"TRASPORTE DE MERCANCIA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0252",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003009007,
+        "Nombre":"ULTRACOM",
+        "Nombre de la empresa":"ULTRAMAR COMMERCIAL CORPORATION",
+        "Número de proveedor":"PV-0221",
+        "DV":40.0,
+        "RUC":"1091-157-111481",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000000620897,
+        "Nombre":"UNIK TRANSPORT LOGISTIC & SOLUTIONS, S.A.",
+        "Nombre de la empresa":"UNIK TRANSPORT LOGISTIC & SOLUTIONS, S.A.",
+        "Número de proveedor":"PV-0104",
+        "DV":4.0,
+        "RUC":"530084-1-440074",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000175111,
+        "Nombre":"VENDELA, S.A.",
+        "Nombre de la empresa":"VENDELA, S.A.",
+        "Número de proveedor":"PV-0055",
+        "DV":0.0,
+        "RUC":"38682-54-272473",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000162001,
+        "Nombre":"VICTOR DE LA CRUZ",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0046",
+        "DV":43.0,
+        "RUC":"8-940-1867",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001399119,
+        "Nombre":"WENZHOU PASSION IMP.&EXP. CO., LTD.",
+        "Nombre de la empresa":"WENZHOU PASSION IMP.&EXP. CO., LTD.",
+        "Número de proveedor":"PV-0171",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000000596947,
+        "Nombre":"YANIL LUCIETH BEITIA CACERES",
+        "Nombre de la empresa":"2-717-333",
+        "Número de proveedor":"PV-0096",
+        "DV":95.0,
+        "RUC":"4-789-1214",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000001311069,
+        "Nombre":"YAREMIS JIMENEZ",
+        "Nombre de la empresa":"YAREMIS JIMENEZ",
+        "Número de proveedor":"PV-0166",
+        "DV":null,
+        "RUC":"8-815-149",
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003703211,
+        "Nombre":"YASSIEL GARCIA CARVAJAL",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"PV-0239",
+        "DV":69.0,
+        "RUC":"8-907-2351",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000003128001,
+        "Nombre":"YAZMILET YERILCA DE GRACIA MENDOZA",
+        "Nombre de la empresa":null,
+        "Número de proveedor":"EM-0223",
+        "DV":6.0,
+        "RUC":"8-1005-1105",
+        "tipo_persona":1.0
+    },
+    {
+        "CONTACT_ID":3468717000000923153,
+        "Nombre":"YILLARY DEL CARMEN AGUILAR CAMARENA",
+        "Nombre de la empresa":"YILLARY DEL CARMEN AGUILAR CAMARENA",
+        "Número de proveedor":"PV-0148",
+        "DV":null,
+        "RUC":null,
+        "tipo_persona":null
+    },
+    {
+        "CONTACT_ID":3468717000003367039,
+        "Nombre":"YOBEL SCM, S.A.",
+        "Nombre de la empresa":"YOBEL SCM, S.A.",
+        "Número de proveedor":"PV-0236",
+        "DV":81.0,
+        "RUC":"1752274-1-696610",
+        "tipo_persona":2.0
+    },
+    {
+        "CONTACT_ID":3468717000002706001,
+        "Nombre":"YOYTEC COMPUTER S A",
+        "Nombre de la empresa":"YOYTEC COMPUTER S A",
+        "Número de proveedor":"PV-0217",
+        "DV":19.0,
+        "RUC":"963942-1-528502",
+        "tipo_persona":2.0
+    }
+]
